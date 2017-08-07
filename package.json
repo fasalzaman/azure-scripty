@@ -10,7 +10,7 @@
     }
   ],
   "dependencies": {
-    "azure-cli": "^2.0.12"
+    "azure-cli": "^2.0.12",
     "underscore": "~1.4.3",
     "async": "~0.2.10"
   },
